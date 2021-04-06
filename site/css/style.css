@@ -2,3 +2,11 @@
 {
 	margin-left : auto;
 }
+.container:nth-child(even)
+{
+	color: red;
+}
+.container:nth-child(odd)
+{
+	margin-left : blue;
+}
