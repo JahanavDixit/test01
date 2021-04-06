@@ -2,11 +2,11 @@
 {
 	margin-left : auto;
 }
-.container:nth-child(even)
+.row:nth-child(even)
 {
 	color: red;
 }
-.container:nth-child(odd)
+.row:nth-child(odd)
 {
 	margin-left : blue;
 }
